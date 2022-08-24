@@ -3,7 +3,7 @@
 - 👩🏿‍🎓 So why am I encouraging CS education if I'm not a developer myself? I missed out on CS education as when as I was at school, we didn't learn any CS or even get encouraged to think about it as a career. I want to make sure others have the opportunity to get deep into CS to make it more inclusive, equitable and build an awesome digital future for everyone.
 - 🌱 I’m currently learning AI/ML, I just passed my Microsoft AI Engineer cert.
 - 💞️ I’m looking to collaborate on ways to make CS better in higher ed! Research tells us that we need more hands on CS education, connected to solving real world challenges, and using industry-ready CS tools to make it easier for graduates to move into jobs, while also making CS more inclusive and attractive to all.
-- 📫 How to reach me - find me on Twitter [https://twitter.com/alexajoyce]@alexajoyce</a>
+- 📫 How to reach me - find me on Twitter @alexajoyce
  
 <!---
 alexajoyce/alexajoyce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
